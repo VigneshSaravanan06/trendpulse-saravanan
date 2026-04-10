@@ -1,0 +1,88 @@
+post_id,title,category,score,num_comments,author,collected_at
+47704804,How NASA built Artemis II’s fault-tolerant computer,technology,332,112,speckx,2026-04-10 13:54:26
+47712656,We've raised $17M to build what comes after Git,technology,96,191,ellieh,2026-04-10 13:54:29
+47709158,Charcuterie – Visual similarity Unicode explorer,technology,215,38,rickcarlino,2026-04-10 13:54:33
+47707632,"Instant 1.0, a backend for AI-coded apps",technology,139,76,stopachka,2026-04-10 13:54:39
+47713113,"The Raft consensus algorithm explained through ""Mean Girls"" (2019)",technology,74,19,vermilingua,2026-04-10 13:54:40
+47706141,Research-Driven Agents: When an agent reads before it codes,technology,173,48,hopechong,2026-04-10 13:54:41
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",technology,22,4,russellharper,2026-04-10 13:54:48
+47674950,An AI robot in my home,technology,30,12,kukanani,2026-04-10 13:54:51
+47702541,A WebGPU implementation of Augmented Vertex Block Descent,technology,141,18,juretriglav,2026-04-10 13:54:52
+47695666,Show HN: Druids – Build your own software factory,technology,51,11,etherio,2026-04-10 13:54:57
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,technology,206,231,speckx,2026-04-10 13:55:04
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",technology,152,95,SirHound,2026-04-10 13:55:05
+47687273,Git commands I run before reading any code,technology,2247,477,grepsedawk,2026-04-10 13:55:07
+47710782,The Training Example Lie Bracket,technology,28,13,pb1729,2026-04-10 13:55:11
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,327,218,kisamoto,2026-04-10 13:55:12
+47701233,Claude mixes up who said what,technology,428,334,sixhobbits,2026-04-10 13:55:18
+47660434,C# in Unity 2026: Writing more modern code,technology,75,97,hacker_13,2026-04-10 13:55:20
+47711960,Vibe-Coded Ext4 for OpenBSD,technology,11,4,signa11,2026-04-10 13:55:21
+47708817,Maine is about to become the first state to ban major new data centers,technology,279,393,rmason,2026-04-10 13:55:22
+47708411,Bitmap fonts make computers feel like computers again,technology,105,79,speckx,2026-04-10 13:55:26
+47704285,Clean code in the age of coding agents,technology,51,83,yanis_t,2026-04-10 13:55:27
+47712771,"Google's AI Overviews spew false answers per hour, bombshell study reveals",technology,22,4,1vuio0pswjnm7,2026-04-10 13:55:28
+47713732,First man convicted under Take It Down Act kept making AI nudes after arrest,technology,10,0,tzs,2026-04-10 13:55:30
+47710919,How the Trivy supply chain attack harvested credentials from secrets managers,technology,17,15,Rial_Labs,2026-04-10 13:55:36
+47712755,"Detox may erase 10 years of social media brain damage, researchers say",technology,25,2,1vuio0pswjnm7,2026-04-10 13:55:43
+47711623,Mexico's President Sheinbaum Decrees Universal Healthcare for 120M,worldnews,42,19,testing22321,2026-04-10 13:56:53
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,388,367,chabons,2026-04-10 13:57:34
+47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,616,261,zixuanlimit,2026-04-10 13:57:58
+47680124,IPv6 is the only way forward,worldnews,103,320,quaintdev,2026-04-10 13:58:26
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,worldnews,114,26,rryan,2026-04-10 13:58:39
+47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,124,19,ductionist,2026-04-10 13:58:51
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,323,160,Bender,2026-04-10 13:59:25
+47710608,FCC considers retroactive ban on foreign hardware,worldnews,6,3,topspin,2026-04-10 13:59:44
+47709123,How Iran's Information War Machine Operates Online,worldnews,6,0,mikhael,2026-04-10 13:59:54
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,318,90,player_piano,2026-04-10 14:00:05
+47712641,White House Warns Staff Not to Place Bets on Prediction Markets Amid Iran War,worldnews,10,3,bookofjoe,2026-04-10 14:00:07
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,57,18,zdw,2026-04-10 14:00:35
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,32,12,brene,2026-04-10 14:01:12
+47710595,The Iran war depleted US weapons. Rebuilding will require China's cooperation,worldnews,11,0,n1b0m,2026-04-10 14:01:16
+47683613,ICE acknowledges it is using powerful spyware,worldnews,68,8,dnemmers,2026-04-10 14:01:25
+47704060,Not just spyware scandals: EU is funding the industry that spies on Europeans,worldnews,8,0,latexr,2026-04-10 14:01:53
+47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,worldnews,38,23,beardyw,2026-04-10 14:01:54
+47692291,"Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",worldnews,12,0,hn_acker,2026-04-10 14:03:01
+47709273,Wild chimpanzees recorded waging 'civil war' with coordinated attacks,worldnews,5,0,geox,2026-04-10 14:03:04
+47697980,"Account Verification for Windows Hardware Program Begins October 16, 2025",worldnews,5,0,TiredOfLife,2026-04-10 14:03:42
+47663743,"Show HN: Moon simulator game, ray-casting",sports,105,24,JKCalhoun,2026-04-10 14:04:49
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,113,35,pruz,2026-04-10 14:05:56
+47672778,Breaking the console: a brief history of video game security,sports,96,26,sprado,2026-04-10 14:07:05
+47710319,BYD teams up with KFC to offer 9 minute EV charging,sports,9,0,breve,2026-04-10 14:07:10
+47709535,Lethal conflict after group fission in wild chimpanzees,sports,8,1,impish9208,2026-04-10 14:07:24
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,539,163,akyuu,2026-04-10 14:07:36
+47654629,The Harvard Library Passport,sports,40,15,fi-le,2026-04-10 14:07:37
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,307,192,keepamovin,2026-04-10 14:07:47
+47685704,How the Vision Pro Rollout Inflamed Tensions at Apple,sports,16,4,f_allwein,2026-04-10 14:11:16
+47681453,"Sports bets on prediction markets ruled to be ""swaps,"" exempt from state laws",sports,19,6,nradov,2026-04-10 14:11:44
+47667008,Show HN: I built a site that turns your Steam gaming hours into a RL skill tree,sports,8,10,naorz,2026-04-10 14:11:55
+47708818,Native Instant Space Switching on macOS,science,478,216,PaulHoule,2026-04-10 14:12:07
+47651764,How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling,science,26,5,LabsLucas,2026-04-10 14:13:01
+47650502,Computational Physics (2nd Edition) (2025),science,184,23,teleforce,2026-04-10 14:16:33
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,56,0,tosh,2026-04-10 14:17:11
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,2026-04-10 14:17:26
+47691409,Reproducibility and robustness of economics and political science research,science,5,0,lamename,2026-04-10 14:20:05
+47709360,CDC study shows Covid shot benefits; Trump official blocks release,science,17,2,ColinWright,2026-04-10 14:20:11
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,148,135,randerson_112,2026-04-10 14:20:50
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,45,23,behat,2026-04-10 14:20:57
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",entertainment,23,2,larry-the-agent,2026-04-10 14:20:59
+47704259,"Show HN: Guruka.com – free guided mediations. No signup, private, works offline",entertainment,24,7,eummm,2026-04-10 14:21:39
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,entertainment,119,56,DamnInteresting,2026-04-10 14:22:01
+47710713,"Show HN: Linear RNN/Reservoir hybrid generative model, one C file (no deps.)",entertainment,7,2,adinhitlore,2026-04-10 14:22:13
+47702791,Show HN: 41 years sea surface temperature anomalies,entertainment,142,64,willmeyers,2026-04-10 14:22:24
+47705802,Show HN: Mdpdf a 2k line C CLI to convert Markdown to tiny PDFs,entertainment,8,3,bastscho,2026-04-10 14:22:38
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,138,155,latchkey,2026-04-10 14:22:41
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,entertainment,62,19,meribold,2026-04-10 14:22:48
+47696562,Show HN: Is Hormuz open yet?,entertainment,455,201,anonfunction,2026-04-10 14:22:52
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,61,12,rvitorper,2026-04-10 14:23:10
+47657204,Show HN: We built a camera only robot vacuum for less than $300 (well almost),entertainment,106,55,indraneelpatil,2026-04-10 14:23:18
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,781,235,sam-bee,2026-04-10 14:23:24
+47661038,Show HN: I built a navigation app that displays weather along the route,entertainment,55,25,vkatluri,2026-04-10 14:23:39
+47704260,Show HN: Zoneless – Open-source Stripe Connect clone with $0.002 fees using USDC,entertainment,14,6,tinyprojects,2026-04-10 14:24:00
+47705780,Show HN: BrokenClaw Part 5: GPT-5.4 Edition (Prompt Injection),entertainment,9,2,veganmosfet,2026-04-10 14:24:21
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,287,69,frasermarlow,2026-04-10 14:24:23
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,entertainment,230,28,MediaSquirrel,2026-04-10 14:24:46
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,162,31,intofarlands,2026-04-10 14:24:59
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,465,199,MattHart88,2026-04-10 14:25:02
+47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,entertainment,100,17,Sean-Der,2026-04-10 14:25:40
+47691174,Show HN: Explore the Silk Roads through an interactive map,entertainment,47,6,intofarlands,2026-04-10 14:26:06
+47707158,DIY MacBook Neo upgrade can boost the SSD to 1TB using iPhone parts,entertainment,9,1,alwillis,2026-04-10 14:26:21

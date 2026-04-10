@@ -94,7 +94,7 @@ def main():
                 category_counts[category] += 1
 
         # Sleep AFTER finishing one category
-        time.sleep(2)
+        time.sleep(2) 
 
     # Create data folder if not exists
     if not os.path.exists("data"):
