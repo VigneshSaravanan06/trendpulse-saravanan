@@ -36,7 +36,7 @@ print(f"After removing low scores: {len(df)}")
 df["title"] = df["title"].str.strip()
 
 # 3. SAVE AS CSV
-# -------------------------------
+
 
 # Ensure data folder exists
 if not os.path.exists("data"):
@@ -48,9 +48,7 @@ df.to_csv(output_file, index=False)
 
 print(f"\nSaved {len(df)} rows to {output_file}")
 
-# -------------------------------
 # SUMMARY
-# -------------------------------
 
 print("\nStories per category:")
 print(df["category"].value_counts())
